@@ -1,5 +1,17 @@
+.card{
+    border-color: rgb(214, 214, 214);
+}
+
 .card-body {
     background-color: white;
     color: black;
-    border-color: darkgrey;
+    border-color: grey;
+}
+
+.jumbotron {
+    background-image: url('https://sctpl-e-learn.firebaseapp.com/assets/Images/elearn.jpg');
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height: 400px;
 }
